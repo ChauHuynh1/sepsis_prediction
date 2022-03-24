@@ -18,8 +18,7 @@ The dataset can only be used for the purpose of this assignment. Sharing or dist
 | Column   Name                | Attribute/Target | Description                                                                                                                                                                                                  |
 |------------------------------|------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ID                           | N/A              | Unique number to represent patient ID                                                                                                                                                                        |
-| PRG           | Attribute1       |  Pl asma glucose
- |
+| PRG           | Attribute1       |  Pl asma glucose|
 | PL               | Attribute 2     |   Blood Work Result-1 (mu U/ml)                                                                                                                                                |
 | PR              | Attribute 3      | Blood Pressure (mm Hg)    
 |
@@ -29,10 +28,9 @@ The dataset can only be used for the purpose of this assignment. Sharing or dist
 |                                                                                               
 | M11     | Attribute 6    |  Body mass index (weight in kg/(height in m)^2
 |
-| BD2             | Attribute 7     |   Blood Work Result-4 (mu U/ml)                                                                                                                                               |
-| Age              | Attribute 8      |    patients age  (years)                                                                                                                                             |
-| Insurance | N/A     | If a patient holds a valid insurance card
-|
+| BD2             | Attribute 7     |   Blood Work Result-4 (mu U/ml)|
+| Age              | Attribute 8      |    patients age  (years)|
+| Insurance | N/A     | If a patient holds a valid insurance card|
 | Sepssis                 | Target           | Positive: if a patient in ICU will 
 develop a sepsis , and Negative: otherwise |
 
