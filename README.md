@@ -18,7 +18,7 @@ The dataset can only be used for the purpose of this assignment. Sharing or dist
 | Column   Name                | Attribute/Target | Description                                                                                                                                                                                                  |
 |------------------------------|------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ID                           | N/A              | Unique number to represent patient ID                                                                                                                                                                        |
-| PRG           | Attribute1       |  Pl asma glucose|
+| PRG           | Attribute1       |  Plasma glucose|
 | PL               | Attribute 2     |   Blood Work Result-1 (mu U/ml)                                                                                                                                                |
 | PR              | Attribute 3      | Blood Pressure (mm Hg)|
 | SK              | Attribute 4      | Blood Work Result-2 (mm)|
